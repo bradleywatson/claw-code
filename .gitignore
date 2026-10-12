@@ -7,6 +7,8 @@ archive/
 .claude/sessions/
 # Claw Code local artifacts
 .claw/settings.local.json
+.claw/mcp-stdio-bridge.js
+.claw/data.sqlite
 .claw/sessions/
 .claw/rules.local/
 .clawhip/

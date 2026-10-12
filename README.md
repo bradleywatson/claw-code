@@ -232,7 +232,7 @@ claw --help
 Build and install to Cargo's default location (`~/.cargo/bin/`, which is usually on PATH):
 ```bash
 # From the claw-code/rust/ directory
-cargo install --path . --force
+cargo install --path crates/rusty-claude-cli --force
 
 # Then from anywhere
 claw --help
